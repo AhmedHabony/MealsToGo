@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56328cf6-c735-4535-9682-6914239f6fec" name="Default Changelist" comment="firs">
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="532248ef-9381-420a-ba4d-dc45d77fb622" />
+  </component>
+  <component name="ProjectId" id="1q6tr7KIwZV4RseuavTCy4NhWOc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Testing/gulp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Habony\MealsToGo\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Habony\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56328cf6-c735-4535-9682-6914239f6fec" name="Default Changelist" comment="" />
+      <created>1616412062242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616412062242</updated>
+      <workItem from="1616412064681" duration="1472000" />
+      <workItem from="1616413583399" duration="7311000" />
+      <workItem from="1616421368780" duration="6148000" />
+      <workItem from="1616428215774" duration="4054000" />
+      <workItem from="1616438245884" duration="22131000" />
+      <workItem from="1616493439722" duration="6077000" />
+      <workItem from="1616527754467" duration="569000" />
+      <workItem from="1616529618311" duration="8525000" />
+      <workItem from="1616544685229" duration="8216000" />
+      <workItem from="1616592696426" duration="7546000" />
+      <workItem from="1616615652030" duration="18433000" />
+      <workItem from="1616642603748" duration="3223000" />
+      <workItem from="1616682610739" duration="5367000" />
+      <workItem from="1616699271028" duration="11071000" />
+      <workItem from="1616725015354" duration="9241000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1616413364708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616413364708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="firs">
+      <created>1616429047809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616429047809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added text and spacer component and some styles for the restaurant info component">
+      <created>1616456173302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616456173310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added firebase auth and setting screen">
+      <created>1616735831336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616735831336</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <MESSAGE value="firs" />
+    <MESSAGE value="added text and spacer component and some styles for the restaurant info component" />
+    <MESSAGE value="added firebase auth and setting screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="added firebase auth and setting screen" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="266" key="#Notifications" timestamp="1616428657840">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="687" y="266" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1616428657840" />
+    <state x="992" y="292" key="#Scopes" timestamp="1616626015684">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="992" y="292" key="#Scopes/0.0.1600.860@0.0.1600.860" timestamp="1616626015684" />
+    <state x="930" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616626114339">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="930" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1616626114339" />
+    <state x="891" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616418841672">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="891" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1616418841672" />
+    <state x="941" y="188" key="FileChooserDialogImpl" timestamp="1616740124159">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="941" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1616740124159" />
+    <state x="676" y="332" width="510" height="228" key="Github.ShareDialog" timestamp="1616413615016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="676" y="332" width="510" height="228" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1616413615016" />
+    <state x="176" y="37" width="998" height="823" key="SettingsEditor" timestamp="1616450451463">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="176" y="37" width="998" height="823" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1616450451463" />
+    <state x="392" y="159" key="Vcs.Push.Dialog.v2" timestamp="1616456194095">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="159" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1616456194095" />
+    <state x="241" y="197" key="run.anything.popup" timestamp="1616623742835">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="241" y="197" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1616623742835" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1616730333792">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1616730333792" />
+  </component>
+</project>
